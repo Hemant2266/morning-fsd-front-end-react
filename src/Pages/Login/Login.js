@@ -32,8 +32,8 @@ export default function Login() {
                         //no redirect
                     }
 
-                    setUsername('')
-                    setPassword('')
+                    setUsername('admin')
+                    setPassword('123')
 
                 })
         } else {
